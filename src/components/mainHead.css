@@ -1,0 +1,47 @@
+.firstline{
+    display:flex;
+    margin-left: 206px;
+    margin-top: 92px;
+    justify-content: space-between;
+    margin-right: 160px;
+}
+
+.text-fl h1{
+    color: #407BFF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 118.5%; /* 47.4px */
+   
+}
+
+.text-fl p{
+    color: #000;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 118.5%; /* 28.44px */
+width: 600px;
+}
+
+.img1vec{
+    width: 264.97px;
+height: 253.13px;
+
+}
+
+.all {
+    position: relative; /* Set relative positioning for the container */
+  }
+  
+  .connect {
+    position: absolute;
+    top: 89px;
+    left: 260px;
+    z-index: 1;
+  }
+  
+  .lastpara{
+    margin-top: 130px;
+  }
+
